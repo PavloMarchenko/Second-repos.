@@ -1,0 +1,18 @@
+p, h1{
+color: #f1c300;
+font-size: 24px;
+}
+.paragraph{
+	color: green;
+}
+.wrap{
+	color: red;
+}
+h1#heading {
+	font-size: 45px;
+}
+a[href="https://www.citrus.ua/uk/kabeli-45/naznachenie_dlya-smartfonov-i-planshetov/"]
+{color:pink};
+.container p {
+	background: blue;
+}
